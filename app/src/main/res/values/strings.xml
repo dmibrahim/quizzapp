@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="questions_one">1. The View class is the basic building block for all UI components</string>
+    <string name="question_two">2. Kotlin Strings are mutable</string>
+    <string name="true_check">True</string>
+    <string name="false_check">False</string>
+    <string name="not_sure_choice">I am not sure</string>
+    <string name="btn_reset_text">reset</string>
+    <string name="btn_submit_text">Submit</string>
+</resources>
